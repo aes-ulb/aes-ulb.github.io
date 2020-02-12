@@ -1,0 +1,12 @@
++++
+
+title = "Rassemblement"
+weight = 10
+
+[asset]
+   icon = "fas fa-users"
+   url = "#"
++++
+
+Nous rassemblons toute la communauté gamer de l'ULB afin
+de partager des expériences IRL.

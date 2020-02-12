@@ -1,0 +1,9 @@
++++
+#title = "Column 1"
+weight = 10
+
+[asset]
+   image = "meltdown.png"
+   width = 300
+   url = "https://www.meltdown.bar/brussels"
++++
