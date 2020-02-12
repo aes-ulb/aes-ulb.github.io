@@ -22,7 +22,7 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"><metadata
    id="metadata5607"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs5605" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -32,15 +32,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="787"
-   inkscape:window-height="860"
+   inkscape:window-width="1586"
+   inkscape:window-height="424"
    id="namedview5603"
    showgrid="false"
-   inkscape:zoom="0.59166667"
-   inkscape:cx="318.10221"
-   inkscape:cy="257.23951"
-   inkscape:window-x="805"
-   inkscape:window-y="6"
+   inkscape:zoom="1.6734861"
+   inkscape:cx="237.33228"
+   inkscape:cy="322.54973"
+   inkscape:window-x="6"
+   inkscape:window-y="442"
    inkscape:window-maximized="0"
    inkscape:current-layer="g5600" />
 <style
@@ -104,6 +104,7 @@
    style="font-size:44.47389984px;font-family:Montserrat-Regular;letter-spacing:380;fill:#004c90;stroke:#004c90;stroke-width:0.5;stroke-miterlimit:10"
    id="tspan5594">ASSOCIATION E-SPORT DE L’ULB</tspan>	</textPath></text>
 
+
 <g
    transform="matrix(1.141331,0,0,1.141331,737.701,317.41853)"
    id="g5328"><path
@@ -118,7 +119,8 @@
      height="68.70282"
      width="95.065163"
      id="rect4974"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.75" /><path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+     rx="47.532581" /><path
      inkscape:connector-curvature="0"
      id="path5000"
      d="m 179.7819,149.44513 c 14.05375,34.73662 21.21321,50.11619 21.21321,50.11619 l 10.07627,-28.90298 10.19645,-19.46735 -2.2415,-8.10982 L 200.8,127.1 Z"
